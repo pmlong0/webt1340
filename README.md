@@ -8,7 +8,7 @@ webt1340 Projects
     <li><a href="project2/poster.ai">Project 2</a></li>
     <li><a href="project2/portfolio2.ai">Project 2 Portfolio</a></li>
     </ul>
-<h2>Project 2</h2>
+<h2>Project 3</h2>
     <li><a href="project3/cafe-logo.ai">Project 3</a></li>
     <li><a href="project3/portfolio3.ai">Project 3 Portfolio</a></li>
     <li><a href="project3/portfolio3invitation.ai">Project 3 Portfolio Invitation<a><li>
