@@ -10,7 +10,7 @@ webt1340 Projects
 <h2>Project 3</h2>
     <li><a href="project3/cafe-logo.ai">Project 3</a></li>
     <li><a href="project3/Portfolio3.ai">Project 3 Portfolio</a></li>
-    <li><a href="project3/stationary.ai">Project 3 Portfolio</a></li>
+    <li><a href="project3/stationary.ai">Project 3 Stationary</a></li>
     <li><a href="project3/project3invitation.ai">Project 3 Invitation<a><li>
     </ul>
 
