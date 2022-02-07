@@ -18,10 +18,10 @@ webt1340 Projects
 
  <h2>Project 5</h2>
     <li><a href="project5/rake4x9.ait">Project 5 Rack Temp</a></li>
-    <li><a href="project5/aos-brochure.ai">Project 3 Brochure</a></li>
+    <li><a href="project5/aos-brochure.ai">Project 5 Brochure</a></li>
     <li><a href="project5/saos-brochure.pdf">Project 5 Brochure PDF</a></li>
     <li><a href="project5/project5port.ai">Project 5 Portfolio</a></li>
-    <li><a href="project5/aos-brochure_Folder">Project 3 Brochure Folder</a></li>
+    <li><a href="project5/aos-brochure_Folder">Project 5 Brochure Folder</a></li>
   </ul>
 
 
