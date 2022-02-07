@@ -18,7 +18,7 @@ webt1340 Projects
     <li><a href="project5/aos-brochure.ai">Project 5 Brochure Ai</a></li>
     <li><a href="project5/aos-brochure.pdf">Project 5 Brochure PDF</a></li>
     <li><a href="project5/project5port.ai">Project 5 Portfolio</a></li>
-    </ul>
+  </ul>
 
 
 
