@@ -2,7 +2,6 @@ webt1340 Projects
 <h1> Projects</h1>
 <ul>
 <h2>Project 1</h2>
-
     <li><a href="project1/icons.ai">Project 1</a></li>
     <li><a href="project1/iconsport.ai">Project 1 Portfolio</a></li>
 
